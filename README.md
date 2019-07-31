@@ -1,7 +1,7 @@
 Seedcoin integration/staging tree
 ================================
 
-http://www.seedcoin.org
+http://theseed.network
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2014-2019 Seedcoin Developers
