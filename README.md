@@ -4,22 +4,24 @@ Seedcoin integration/staging tree
 http://www.seedcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Seedcoin Developers
+Copyright (c) 2014-2019 Seedcoin Developers
 
 What is Seedcoin?
 ----------------
 
 Seedcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
+ - ~42 million total coins
+ - ENT (Extended Network Transactions)*
+ - Carbon Credit sustained network*
+* More info soon
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Seedcoin client sofware, see http://www.seedcoin.org.
+the Seedcoin client sofware, see http://theseed.network.
 
 License
 -------
@@ -45,7 +47,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/seedcoin-project/seedcoin/tags) are created
+completely stable. [Tags](https://github.com/seed-coin/seedcoin/tags) will be created
 regularly to indicate new official, stable release versions of Seedcoin.
 
 Testing
