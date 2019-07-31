@@ -16,6 +16,7 @@ Seedcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - ENT (Extended Network Transactions)*
  - Carbon Credit sustained network*
 * More info soon
+
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
